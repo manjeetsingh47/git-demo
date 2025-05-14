@@ -2,4 +2,5 @@
 my first github repositiry
 <br>
 how are you Mr.
-Author(Mnajeet singh)
+<br>
+Author(Manjeet singh)
